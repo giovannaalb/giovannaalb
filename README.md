@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zkaay
+# 👋 OIII, SOU A GIOVANNA
 
 🎓 Desenvolvedora full stack em formação  
 💻 Técnica em Desenvolvimento de Sistemas (ETEC) | Cursando ADS  
@@ -18,29 +18,24 @@ Atualmente desenvolvendo projetos para portfólio e aprimorando minhas habilidad
 ## 🛠️ Tecnologias
 
 ### Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
 ### Frameworks & Ferramentas
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" />
 
----
-
-## 📌 Projetos em destaque
-
-- 🏨 **Sistema de Reserva de Quartos**
-  - Laravel + Blade + Bootstrap
-  - Regras de disponibilidade e precificação por dia da semana
-  - Painel administrativo
-
----
 
 ## 📫 Contato
 
-- GitHub: https://github.com/Zkaay
+- GitHub: https://github.com/giovannaalb
+- Email: giovannapalbuquerque@gmail.com
 - LinkedIn: *(se quiser colocar depois)*
 
