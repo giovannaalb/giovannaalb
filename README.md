@@ -8,10 +8,10 @@
 
 ## 💡 Sobre mim
 
-Sou desenvolvedora full stack com foco em projetos práticos.  
-Gosto de trabalhar com regras de negócio, sistemas web e aplicações completas — do backend ao frontend.
+Sou desenvolvedora full stack em formação, com foco em projetos práticos e aplicações web completas.  
+Gosto de trabalhar com regras de negócio, CRUDs, APIs e integrações entre frontend e backend.
 
-Atualmente desenvolvendo projetos para portfólio e aprimorando minhas habilidades constantemente.
+Atualmente desenvolvo projetos para portfólio, sempre buscando boas práticas e código organizado.
 
 ---
 
@@ -22,7 +22,17 @@ Atualmente desenvolvendo projetos para portfólio e aprimorando minhas habilidad
 
 
 ### Frameworks & Ferramentas
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" style="margin: 8px;"/> </p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" style="margin: 8px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="margin: 8px;"/> </p>
+
+## 📌 Projetos em destaque
+
+- 🏨 **Workopia**  
+ Plataforma de recrutamento desenvolvida com Laravel, com cadastro de vagas, funcionalidade de busca e sistema de candidatura com envio de currículo.  
+  **Tecnologias:** Laravel, Postgresql
+
+- 🎳 **Sistema para Boliche**  
+  Aplicação com reservas, ranking de jogadores e controle administrativo.  
+  **Tecnologias:** Laravel, Angular, SQLite
 
 ## 📫 Contato
 
