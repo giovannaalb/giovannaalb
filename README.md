@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" title="Node.js"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
 </p>
 
 ### Ferramentas & Produtividade
@@ -50,8 +50,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannaalb&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Giovanna" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaalb&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovannaalb&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Giovanna" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannaalb&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
   <a href="mailto:giovannapalbuquerque@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/giovanna-albuquerque-b49918319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/giovanna-albuquerque-b49918319" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
