@@ -1,11 +1,10 @@
 # Olá, eu sou a Giovanna! 👋
 
-## 🦉 SOBRE MIM
+## SOBRE MIM
 
 **Desenvolvedora Full Stack em formação**  
-🎓 Técnica em Desenvolvimento de Sistemas (ETEC) | Cursando Análise e Desenvolvimento de Sistemas (ADS)  
-🚀 Focada em projetos práticos, arquitetura limpa e aprendizado contínuo.
-
+Técnica em Desenvolvimento de Sistemas (ETEC) | Cursando Análise e Desenvolvimento de Sistemas (ADS)  
+Focada em projetos práticos, arquitetura limpa e aprendizado contínuo.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -19,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
 </p>
 
 ### Frameworks & Bancos de Dados
@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" />
 </p>
 
 ### Ferramentas & Produtividade
@@ -38,8 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width="40" />
 </p>
----
 
 ## 📫 Vamos nos conectar?
 
