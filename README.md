@@ -39,21 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion"/>
 </p>
-
----
-
-## 📌 Projeto em Destaque 🌟
-* **Bowling Manager**: Sistema completo de gestão e reserva de boliche desenvolvido com **Laravel** no ecossistema de APIs e **Angular** no Frontend responsivo.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovannaalb&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Giovanna" height="180px"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannaalb&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180px"/>
-</p>
-
 ---
 
 ## 📫 Vamos nos conectar?
