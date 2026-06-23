@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=2F81F7&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Giovanna!;Desenvolvedora+Web;Especialista+em+TI+e+UX" alt="Typing Effect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=2F81F7&vCenter=true&width=500&lines=Olá,+eu+sou+a+Giovanna!;Desenvolvedora+Web;Especialista+em+TI+e+UX" alt="Typing Effect" />
 
 ## SOBRE MIM
 
