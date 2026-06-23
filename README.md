@@ -2,10 +2,9 @@
 
 ## SOBRE MIM
 
-**Desenvolvedora Full Stack em formação**  
-
-Técnica em Desenvolvimento de Sistemas (ETEC) | Cursando Análise e Desenvolvimento de Sistemas (ADS)  
-Focada em projetos práticos, arquitetura limpa e aprendizado contínuo.
+*Desenvolvedora Full Stack em formação*  
+*Técnica em Desenvolvimento de Sistemas (ETEC) | Cursando Análise e Desenvolvimento de Sistemas (ADS)* 
+*Focada em projetos práticos, arquitetura limpa e aprendizado contínuo.*
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
